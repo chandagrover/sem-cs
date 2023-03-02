@@ -12,8 +12,8 @@ import clip
 import torch.nn.functional as F
 from template import imagenet_templates
 
-from IPython.display import display
-from argparse import Namespace
+# from IPython.display import display
+# from argparse import Namespace
 
 
 import argparse

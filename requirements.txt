@@ -1,7 +1,5 @@
 Installl Packages:
 
+matplotlib
 torch
 torchvision
-matplotlib
-pandas
-numpy
