@@ -1,4 +1,4 @@
-# sem-cs
+# Sem-CS: Semantic CLIPStyler for Text-Based Image Style Transfer (ICIP 2023 accepted, Conference Paper)
 Semantic CLIPStyler
 Below steps to follow:
 Dependencies:
